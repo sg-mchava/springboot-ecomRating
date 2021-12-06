@@ -1,10 +1,6 @@
 package sgi.ecom.rating.demo.model;
-
 import lombok.Data;
 import org.springframework.data.mongodb.core.mapping.Document;
-import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
-
 import java.util.ArrayList;
 
 @Data
